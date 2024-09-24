@@ -1,3 +1,1 @@
-Metete aqui
-https://github.com/juanantoniorodnah/Rebrand-Studio.git
-
+Página publicada: https://juanantoniorodnah.github.io/Rebrand-Studio/
