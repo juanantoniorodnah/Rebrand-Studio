@@ -278,8 +278,9 @@ body {
     float: left;
     display: flex;
     position: absolute;
-    align-items: center;
+    align-items: left;
     justify-content: center;
+    padding-left: 150px;
     color: whitesmoke;
     font-family: raleway;
     font-weight: 400;
@@ -291,7 +292,7 @@ body {
 
 .header-content-box {
     z-index: 2;
-    text-align: center;
+    text-align: left;
     height: auto;
     padding-right: 60px;
     width: auto;
